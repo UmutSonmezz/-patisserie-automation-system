@@ -1,0 +1,10 @@
+C:\Users\umut\OneDrive\Masaüstü\Deneme3\Deneme3\bin\Release\Deneme3.exe.config
+C:\Users\umut\OneDrive\Masaüstü\Deneme3\Deneme3\bin\Release\Deneme3.exe
+C:\Users\umut\OneDrive\Masaüstü\Deneme3\Deneme3\bin\Release\Deneme3.pdb
+C:\Users\umut\OneDrive\Masaüstü\Deneme3\Deneme3\obj\Release\Pastane_Maliyetlendirme_Sistemi.csproj.AssemblyReference.cache
+C:\Users\umut\OneDrive\Masaüstü\Deneme3\Deneme3\obj\Release\Deneme.Form1.resources
+C:\Users\umut\OneDrive\Masaüstü\Deneme3\Deneme3\obj\Release\Deneme3.Properties.Resources.resources
+C:\Users\umut\OneDrive\Masaüstü\Deneme3\Deneme3\obj\Release\Pastane_Maliyetlendirme_Sistemi.csproj.GenerateResource.cache
+C:\Users\umut\OneDrive\Masaüstü\Deneme3\Deneme3\obj\Release\Pastane_Maliyetlendirme_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\umut\OneDrive\Masaüstü\Deneme3\Deneme3\obj\Release\Deneme3.exe
+C:\Users\umut\OneDrive\Masaüstü\Deneme3\Deneme3\obj\Release\Deneme3.pdb

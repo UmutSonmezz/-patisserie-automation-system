@@ -1,0 +1,5 @@
+C:\Users\umut\OneDrive\Masaüstü\C#\Deneme3\Deneme3\obj\Debug\Deneme3.csproj.AssemblyReference.cache
+C:\Users\umut\OneDrive\Masaüstü\C#\Deneme3\Deneme3\obj\Debug\Pastane_Maliyetlendirme_Sistemi.Form1.resources
+C:\Users\umut\OneDrive\Masaüstü\C#\Deneme3\Deneme3\obj\Debug\Deneme3.Properties.Resources.resources
+C:\Users\umut\OneDrive\Masaüstü\C#\Deneme3\Deneme3\obj\Debug\Deneme3.csproj.GenerateResource.cache
+C:\Users\umut\OneDrive\Masaüstü\C#\Deneme3\Deneme3\obj\Debug\Deneme3.csproj.CoreCompileInputs.cache
